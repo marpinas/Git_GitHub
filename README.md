@@ -31,7 +31,6 @@ App creada para el curso de Git y GitHub.
 *Con Ejemplos reales y trabajo en Equipo (Con ejemplos)
 *Para todo tipo de Programador (Móvil, Web, etc).
 *Este commit si esta completo :)
-**Espero no me regañen**
 ### Fecha de creación 2021.
 
 
